@@ -1,10 +1,10 @@
-﻿//----------------------------------------------------------------
+//----------------------------------------------------------------
 // Copyright (c) Microsoft Corporation.  All rights reserved.
 //----------------------------------------------------------------
 
 using System.ComponentModel;
-using System.ServiceModel;
-using System.ServiceModel.Web;
+using CoreWCF;
+using CoreWCF.Web;
 
 namespace Microsoft.Samples.BasicHttpService
 {
